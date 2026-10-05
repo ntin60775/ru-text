@@ -1,0 +1,6 @@
+{
+  "name": "ru-text",
+  "version": "2.3.0",
+  "description": "Русский текст по методике ru-text: типографика и стиль always-on, полная вычитка, оценка 0–10. Зеркало talkstream/ru-text (MIT) в упаковке ZCode-плагина",
+  "skills": "skills"
+}
